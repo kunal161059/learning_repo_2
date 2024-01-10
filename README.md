@@ -2,4 +2,4 @@
 <br>
 Author-Kunal raghuwanshi.
 <br>
-learning gi and github
+learning git and github
